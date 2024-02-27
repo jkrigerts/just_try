@@ -8,7 +8,7 @@
 </head>
 <body>
   @foreach ($apples as $apple)
-    <p>This is user Hi mom {{ $apple->name }}</p>
+    <p>This is user Wierd {{ $apple->name }}</p>
   @endforeach
 </body>
 </html>
