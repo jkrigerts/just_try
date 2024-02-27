@@ -2,3 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/jekabsar/public_html/
+    - /bin/cp index.html $DEPLOYPATH
